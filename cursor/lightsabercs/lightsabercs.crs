@@ -1,0 +1,15 @@
+﻿[Hand]
+Path=altlink.cur
+
+[AppStarting]
+Path=working.ani
+
+[No]
+Path=unavailable.ani
+
+[Arrow]
+Path=normal.cur
+
+[Wait]
+Path=busy.ani
+
